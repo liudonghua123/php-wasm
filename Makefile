@@ -38,8 +38,8 @@ ASSERTIONS     ?=1
 OPTIMIZE       ?=2
 RELEASE_SUFFIX ?=
 
-PHP_VERSION    ?=8.2
-PHP_BRANCH     ?=php-8.2.11
+PHP_VERSION    ?=8.3
+PHP_BRANCH     ?=php-8.3.0
 PHP_AR         ?=libphp
 
 PKG_CONFIG_PATH=/src/lib/lib/pkgconfig
